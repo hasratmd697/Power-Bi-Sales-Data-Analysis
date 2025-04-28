@@ -68,11 +68,12 @@ This Power BI project presents a comprehensive analysis of sales data through a 
 
 ## 📸 Dashboard Preview
 
-![Screenshot 2025-04-28 090143](https://github.com/user-attachments/assets/6df62c3c-8809-484b-a64d-108decdeb6c0)
-![Screenshot 2025-04-28 090210](https://github.com/user-attachments/assets/153fe107-6cc6-4f74-87e5-c0e4e9213d8f)
-![Screenshot 2025-04-28 090310](https://github.com/user-attachments/assets/cb15f0fb-584b-4644-8bde-96a942bae4c9)
-![Screenshot 2025-04-28 090225](https://github.com/user-attachments/assets/d76df328-793d-4420-8ba2-6c1437ee3bef)
-![Screenshot 2025-04-28 090256](https://github.com/user-attachments/assets/fd9cc95e-d6d5-4c98-a780-c980427a69eb)
+![Screenshot 2025-04-28 090143](https://github.com/user-attachments/assets/a71b1742-c38b-4c08-91b6-b755c48b28dd)
+![Screenshot 2025-04-28 090156](https://github.com/user-attachments/assets/0a68c2e8-7fbf-4e70-ad5d-31f55664adfe)
+![Screenshot 2025-04-28 090210](https://github.com/user-attachments/assets/e920719c-f569-4f2f-8448-6eabd9b30753)
+![Screenshot 2025-04-28 090225](https://github.com/user-attachments/assets/371a8e5f-4be3-4243-a738-64d981492a2e)
+![Screenshot 2025-04-28 090256](https://github.com/user-attachments/assets/d5882220-7a11-4dc6-b382-dece52d7fbce)
+![Screenshot 2025-04-28 090310](https://github.com/user-attachments/assets/6ffce328-e910-4791-98a5-bfbeb11808c5)
 
 
 ## 📢 Author
