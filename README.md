@@ -3,7 +3,6 @@
 ## Project Overview
 This Power BI project presents a comprehensive analysis of sales data through a series of interactive visualizations. The dashboard helps in uncovering insights related to sales, profit, discounts, orders, and customer behavior across different time periods and locations.
 
----
 
 ## 📈 Features
 
@@ -45,7 +44,6 @@ This Power BI project presents a comprehensive analysis of sales data through a 
 8. **Sales by City**  
    - Geographical distribution of **sales across different cities**.
 
----
 
 ## 🛠 Tools Used
 
@@ -53,7 +51,6 @@ This Power BI project presents a comprehensive analysis of sales data through a 
 - **DAX** (for custom measures and calculated columns)  
 - **Power Query Editor** (for data transformation)
 
----
 
 ## 📂 How to Use
 
@@ -64,16 +61,20 @@ This Power BI project presents a comprehensive analysis of sales data through a 
 2. Open the `.pbix` file using **Power BI Desktop**.
 3. Interact with the visuals using slicers to filter by date, product, customer ID, or promotion categories.
 
----
 
 ## 📸 Dashboard Preview
 
-![Screenshot 2025-04-28 090143](https://github.com/user-attachments/assets/a71b1742-c38b-4c08-91b6-b755c48b28dd)
-![Screenshot 2025-04-28 090156](https://github.com/user-attachments/assets/0a68c2e8-7fbf-4e70-ad5d-31f55664adfe)
-![Screenshot 2025-04-28 090210](https://github.com/user-attachments/assets/e920719c-f569-4f2f-8448-6eabd9b30753)
-![Screenshot 2025-04-28 090225](https://github.com/user-attachments/assets/371a8e5f-4be3-4243-a738-64d981492a2e)
-![Screenshot 2025-04-28 090256](https://github.com/user-attachments/assets/d5882220-7a11-4dc6-b382-dece52d7fbce)
-![Screenshot 2025-04-28 090310](https://github.com/user-attachments/assets/6ffce328-e910-4791-98a5-bfbeb11808c5)
+![Screenshot 2025-04-28 112002](https://github.com/user-attachments/assets/5606c68b-52f9-47c1-a123-39c1fe1c696c)
+
+![Screenshot 2025-04-28 112014](https://github.com/user-attachments/assets/ddf2b1d8-4a74-475e-b0d5-43708fde58bc)
+
+![Screenshot 2025-04-28 112053](https://github.com/user-attachments/assets/f66c1f12-d15c-4bd0-9a86-9ac4e7dceb05)
+
+![Screenshot 2025-04-28 112104](https://github.com/user-attachments/assets/ab624512-1049-456f-9a9e-8efe021dc048)
+
+![Screenshot 2025-04-28 112114](https://github.com/user-attachments/assets/e3b8fbff-9cce-45f3-a43d-48a164c5f2e7)
+
+![Screenshot 2025-04-28 112124](https://github.com/user-attachments/assets/14f0fcd9-1e4c-4044-9429-c805d256e636)
 
 
 ## 📢 Author
